@@ -15,7 +15,7 @@ In my spare time i solve Codewars and improve my English.<br/>
 
 ## 💼 My portfolio
 
-Link : <a href="https://lunia56.github.io/My_portfolio/">Click to go</a>
+Link : <a href="https://lunia56.github.io/My_portfolio/">👉 Portfolio 👈</a>
 <br/>
 
 ## 📈 My skills
