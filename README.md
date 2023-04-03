@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><br>
-My name is Ilya Lunin. I am a front-end developer from. <br/>
+My name is Ilya Lunin. I am a front-end developer. <br/>
 I have experience in creating SPA with React/Redux/TypeScript. I plan to further study the framework. <br/>
 Now I am improve my skills in this direction and expanding them with new technologies.<br/>
 In my spare time i solve Codewars and improve my English.<br/>
