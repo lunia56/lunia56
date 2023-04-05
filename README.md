@@ -17,7 +17,6 @@ In my spare time i solve Codewars and improve my English.<br/>
 
 Link : <a href="https://lunia56.github.io/My_portfolio/">👉 Portfolio 👈</a>
 <br/>
-
 ## 📈 My skills
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
